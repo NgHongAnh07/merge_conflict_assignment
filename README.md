@@ -1,1 +1,1 @@
-# Git Merge Conflict - Second Change B
+# Git Merge Conflict Assignment - Person B
