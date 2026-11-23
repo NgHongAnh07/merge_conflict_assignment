@@ -1,1 +1,1 @@
-# merge_conflict_assignment
+# Git Merge Conflict - Second Change B
